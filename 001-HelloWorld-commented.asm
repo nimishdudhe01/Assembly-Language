@@ -7,7 +7,7 @@ global _start ; global needs to be defined to tell where to start the program wh
 
 section .text ; This section has the code which is executed.
 
-; Arguments 1,2,3,4,5,6 which are passed in System Calls Are Passed in the eax, ebx, ecx, edx, esi and edi registers respectively.
+; Arguments 1,2,3,4,5 of System Calls Are Passed in the ebx, ecx, edx, esi and edi registers respectively.
 ; The value in eax register tells which system call is supposed to be called.
 
 _start:
