@@ -1,0 +1,3 @@
+A Linux OS (Virtual Machine Would Work Fine)
+nasm ; The Netwide Assembler and,
+ld ; Linker For Linking Assembled Code
