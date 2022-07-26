@@ -8,6 +8,7 @@ then
   echo [+] Linking
   ld -o $1 $1.o -m elf_i386
 else
+  echo "An Error Occured"
   exit
 fi
 
