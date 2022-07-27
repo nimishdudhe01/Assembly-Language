@@ -1,0 +1,7 @@
+
+Get familiar with registers.
+Look at the words/terms used for sizes, like byte, word, dword, qword(qword will only appear in 64-bit assembly which we do not need to worry about at the moment)
+Read the syscall and syscalls man page in linux.
+Read about every x86 assembly instruction which you'll encounter in the examples.
+Get a bit(Setting breakpoints, defining hook-stop, Printing values in registers, etc.) familiar with debugging with gdb.
+Debugging with gdb will help a lot in understanding what's happening in the registers.
