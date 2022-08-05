@@ -1,7 +1,7 @@
 # Assembly Language 
 A beginners guide to program in x86 assembly language on linux.
 
-### To Dos And Prerequisites
+### To Do(s) And Prerequisites
 Get familiar with registers.
 1. Look at the words/terms used for sizes, like byte, word, dword, qword(qword will only appear in 64-bit assembly which we do not need to worry about at the moment)
 2. Read the syscall and syscalls man page in linux.
